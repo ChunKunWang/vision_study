@@ -1,0 +1,6 @@
+[00125v.jpg], Red offset: (-14, 13); Green offset: (14, 14)
+[00149v.jpg], Red offset: (-14, 13); Green offset: (14, 12)
+[00153v.jpg], Red offset: (-14, 14); Green offset: (14, -14)
+[00351v.jpg], Red offset: (14, 14); Green offset: (14, 14)
+[00398v.jpg], Red offset: (-14, 14); Green offset: (14, -14)
+[01112v.jpg], Red offset: (-14, -14); Green offset: (14, 14)

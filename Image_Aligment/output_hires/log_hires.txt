@@ -1,0 +1,3 @@
+[01047u.tif], Red offset: (48, 16); Green offset: (-24, -24)
+[01657u.tif], Red offset: (56, 0); Green offset: (-48, -8)
+[01861a.tif], Red offset: (80, 24); Green offset: (-72, -40)
